@@ -25,6 +25,7 @@ RUN apk add --update --no-cache  \
 	nano  \
 	python3 py3-pip \
 	bash \
+	fortune \
 	py3-pip \
 	py3-setuptools
 
